@@ -1,0 +1,19 @@
+{
+  "name": "buzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure": "^1.1.1-preview",
+    "bit-mask": "0.0.2-alpha",
+    "bitwise": "^0.2.0",
+    "node-bitarray": "^0.1.0",
+    "node-hid": "^0.5.1",
+    "socket.io-client": "^1.4.8"
+  }
+}
